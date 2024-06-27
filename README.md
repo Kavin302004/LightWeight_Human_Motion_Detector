@@ -1,8 +1,8 @@
-### Real-Time Human Detection and Motion Detection using Lightweight YOLO Model
+### Real-Time Human  Motion Detection using Lightweight YOLO Model
 
 #### Overview
 
-This project demonstrates real-time human detection and motion detection using a lightweight YOLO (You Only Look Once) object detection model with OpenCV in Python. The emphasis is on low computational requirements suitable for integration with security cameras.
+This project demonstrates real-time human  motion detection using a lightweight YOLO (You Only Look Once) object detection model with OpenCV in Python. The emphasis is on low computational requirements suitable for integration with security cameras.
 ![image](https://github.com/Kavin302004/LightWeight_Human_Motion_Detector/assets/140266232/11b1a5de-7f70-4e11-8510-aec15657b3c4)
 
 
